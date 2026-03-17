@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "full": {
+    "location_ota": "https://github.com/rooted-graphene/ota/releases/download/2026030701/blazer-2026030701-ec2852b-rootless.zip",
+    "location_csig": "https://github.com/rooted-graphene/ota/releases/download/2026030701/blazer-2026030701-ec2852b-rootless.zip.csig"
+  }
+}
